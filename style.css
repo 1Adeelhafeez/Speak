@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    background-size: cover;
+}
+
+textarea{
+    background-color: darkcyan;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+}
+button{
+background-color: cyan;
+width: 100px;
+height: 40px;
+color: saddlebrown;
+font-size: 25px;
+}
